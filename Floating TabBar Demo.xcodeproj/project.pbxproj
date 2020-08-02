@@ -15,6 +15,7 @@
 		3168D78D24D4CA1500BF0BCD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3168D78B24D4CA1500BF0BCD /* LaunchScreen.storyboard */; };
 		31EBA35224D74B2D00618A06 /* FloatingTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EBA35124D74B2D00618A06 /* FloatingTabBar.swift */; };
 		31EBA35824D7519600618A06 /* ScrolledCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EBA35724D7519600618A06 /* ScrolledCardView.swift */; };
+		31EBA35B24D7684C00618A06 /* tabBar_large.gif in Resources */ = {isa = PBXBuildFile; fileRef = 31EBA35A24D7684C00618A06 /* tabBar_large.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		3168D78E24D4CA1500BF0BCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		31EBA35124D74B2D00618A06 /* FloatingTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingTabBar.swift; sourceTree = "<group>"; };
 		31EBA35724D7519600618A06 /* ScrolledCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrolledCardView.swift; sourceTree = "<group>"; };
+		31EBA35924D7667900618A06 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		31EBA35A24D7684C00618A06 /* tabBar_large.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tabBar_large.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +71,9 @@
 				3168D78624D4CA1500BF0BCD /* Assets.xcassets */,
 				3168D78B24D4CA1500BF0BCD /* LaunchScreen.storyboard */,
 				3168D78E24D4CA1500BF0BCD /* Info.plist */,
+				31EBA35A24D7684C00618A06 /* tabBar_large.gif */,
 				3168D78824D4CA1500BF0BCD /* Preview Content */,
+				31EBA35924D7667900618A06 /* README.md */,
 			);
 			path = "Floating TabBar Demo";
 			sourceTree = "<group>";
@@ -141,6 +146,7 @@
 			files = (
 				3168D78D24D4CA1500BF0BCD /* LaunchScreen.storyboard in Resources */,
 				3168D78A24D4CA1500BF0BCD /* Preview Assets.xcassets in Resources */,
+				31EBA35B24D7684C00618A06 /* tabBar_large.gif in Resources */,
 				3168D78724D4CA1500BF0BCD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
